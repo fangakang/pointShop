@@ -1,0 +1,21 @@
+.bg{ background: #CCCCCC;}
+.flex{display: flex;align-items: center;text-align: justify;}
+.am-list>li:nth-child(1){ border-top:none;}
+.money-icon:before{content: '￥'; }
+.am-btn-default,.am-btn-default:visited,.am-btn-default:focus{ background: #333;color:#fff}
+.am-modal-actions{ background: #FFF; text-align: left; padding-top: 10px; }
+.am-modal-actions .shuliang{}
+.am-modal-actions .shuliang span{padding:2px 8px; background:#E9E9E9;}
+.am-modal-actions .am-close{ position: absolute; top:5px; right:5px; z-index: 999;}
+.am-btn-default,.am-btn-default:hover{ border: 1px solid #333;background: #333;}
+.am-btn-default-flase{ border: 1px solid #333;}
+.am-btn{ }
+a.am-btn-default:visited{color: #fff}
+a{color: #333;}
+.font-red {color: #bc3031;}
+.title{border-bottom: 1px solid #EFEFF4; }
+.title:before{ content: "◆";  margin-right: 10px; font-size: 0.8em;}
+.line {
+    height: 0.6em;
+    background: #E1E1E1;
+}
